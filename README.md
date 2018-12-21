@@ -5,7 +5,6 @@ learning objectives:
 * implicit coercion makes it seems like JS is comparing between types, but it isn't behind the scenes
 * loose equality & !equality coerces behind the scenes according to clear rules, then does a 'strict comparison'
 * inequalities also do implicit coercion
-* inequalities place an order on all elements in each type
 
 
 http://algassert.com/visualization/2014/03/27/Better-JS-Equality-Table.html  
